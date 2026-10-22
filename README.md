@@ -1,8 +1,8 @@
-# 随机练习
+# 知识随机练习
 
 全题型随机答题网页：单选题、多选题、判断题、填空题、简答题和论述题。
 
-**在线使用：** https://lingy-eling.github.io/party-quiz-2026/
+**在线使用：** https://lingy-eling.github.io/p-quiz-2026/
 
 ## 使用
 
